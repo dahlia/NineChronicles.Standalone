@@ -11,7 +11,7 @@
     <ProjectReference Include="..\NineChronicles.RPC.Shared\NineChronicles.RPC.Shared\NineChronicles.RPC.Shared.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="3.5.0-alpha0046" />
+    <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="4.0.1" />
     <PackageReference Include="GraphQL.Server.Transports.AspNetCore.SystemTextJson" Version="3.5.0-alpha0046" />
     <PackageReference Include="GraphQL.Server.Transports.WebSockets" Version="3.5.0-alpha0046" />
     <PackageReference Include="GraphQL.Server.Ui.Playground" Version="3.5.0-alpha0046" />
